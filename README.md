@@ -4,6 +4,6 @@
 
 1. Kasse
 2. Pineapple
-3.Tomato Sauce
+3. Tomato Sauce
 4. Wurst
 
